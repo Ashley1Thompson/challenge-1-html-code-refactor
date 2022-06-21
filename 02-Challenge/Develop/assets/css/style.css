@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* rearranged sections to match sequential order */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -62,7 +64,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* removed redundant code */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -91,7 +93,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* removed redundant code */
 .benefits-bar {
     margin-right: 20px;
     padding: 20px;
